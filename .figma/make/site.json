@@ -1,0 +1,10 @@
+{
+  "description": "Calculate IPv4 subnets and plan efficient VLSM address allocations with interactive network tools designed for students and networking learners.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
